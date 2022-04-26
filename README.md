@@ -1,2 +1,2 @@
 # Example
-This repo is for a Revature project
+This repo is for a project
